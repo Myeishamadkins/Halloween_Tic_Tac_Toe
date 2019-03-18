@@ -1,0 +1,41 @@
+/* #board div {
+    background-color: black;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    float: left;
+    width: 24px;
+    height: 24px;
+}
+
+#board {
+    width: calc(26 * 24px);
+    margin: auto;
+}
+
+#board .snake {
+    background-color: orangered;
+}
+body {
+    background-color: orangered;
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    font-weight: 300;
+    color: whitesmoke;
+} */
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    background-color: black;
+    border: 10px solid gray;
+    font-size: 80px;
+    color: gray;
+    border-radius: 10px 10px 10px 10px;
+}
+body {
+    background-color: orangered;
+}
